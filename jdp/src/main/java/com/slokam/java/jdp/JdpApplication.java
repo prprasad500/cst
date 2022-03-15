@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JdpApplication {
 
 	public static void main(String[] args) {
-		//
+		//.,
 		SpringApplication.run(JdpApplication.class, args);
 	}
 
