@@ -8,7 +8,7 @@ public class Student {
 	private String Name;
 	private int Marks;
 	private long Phone;
-	
+	//student
 	@Override
 	public String toString() {
 		return "Student [id=" + id + ", Name=" + Name + ", Marks=" + Marks + ", Phone=" + Phone + "]";
