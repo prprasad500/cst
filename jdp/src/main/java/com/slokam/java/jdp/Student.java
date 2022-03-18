@@ -3,7 +3,7 @@ package com.slokam.java.jdp;
 import org.springframework.web.bind.annotation.GetMapping;
 
 public class Student {
-	
+	//this is studant
 	private int id;
 	private String Name;
 	private int Marks;
